@@ -31,8 +31,8 @@ var packageTargets: [Target] = [
         : .binaryTarget(
             name: "LibXMTPSwiftFFI",
             url:
-            "https://github.com/xmtp/libxmtp/releases/download/libxmtp-ios-5172231/LibXMTPSwiftFFI.zip",
-            checksum: "9013c6b5bff118d4f96b67d8d9710bc92e6ad2bc3fbf333fd54e5f4befe74e3b"
+            "https://github.com/yewreeka/libxmtp/releases/download/drop-catalyst-5172231/LibXMTPSwiftFFI.zip",
+            checksum: "261b3d8b0d1dbdbacc5eadd3a7bbc552846be3e48a8663b67ce8053d6fc03314"
         ),
     .target(
         name: "XMTPiOS",
